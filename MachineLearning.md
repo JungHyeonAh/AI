@@ -5,4 +5,4 @@
 *****
 
 #### 분류
-![Alt text](C:/Users/jha/Pictures/머신러닝분류.png)
+[![Alt text](C:/Users/jha/Pictures/머신러닝분류.png)](https://github.com/JungHyeonAh/AI/issues/1#issue-2106983529)https://github.com/JungHyeonAh/AI/issues/1#issue-2106983529
