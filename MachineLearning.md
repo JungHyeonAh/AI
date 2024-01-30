@@ -5,4 +5,11 @@
 *****
 
 #### 분류
-[![Alt text](C:/Users/jha/Pictures/머신러닝분류.png)](https://github.com/JungHyeonAh/AI/issues/1#issue-2106983529)https://github.com/JungHyeonAh/AI/issues/1#issue-2106983529
+![머신러닝분류](https://github.com/JungHyeonAh/AI/assets/127293391/ec19a2c4-a9b0-432b-8dca-357d4136d078)
+
+*****
+
+#### 머신러닝의 문제점
+- 데이터네 매우 의존적이다.
+  -> 좋은 품질의 데이터를 갖추지 못하면 머신러닝의 수행 결과도 좋을 수 없다.
+- 데이터를 이해하고 효율적으로 가공, 처리, 추출해 최적의 데이터를 준비해야하는 능력이 필요하다.
