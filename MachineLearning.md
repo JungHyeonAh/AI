@@ -5,4 +5,4 @@
 *****
 
 #### 분류
-<img src="사진/머신러닝분류.png">
+<img src="C:\Users\jha\Pictures\머신러닝분류.png">
